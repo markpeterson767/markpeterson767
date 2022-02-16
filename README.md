@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/d69dd87eef8d7175c3fde44a454fb193/f5086ac2846e4387-c1/s540x810/8b53cba0d131fec9dc9df764040e3a2e32210e62.gifv)]
+[![MasterHead](https://1.bp.blogspot.com/-gu5z4t7QXkw/Xd8bEk6gVxI/AAAAAAAANhQ/jXlVfYNQbOw3Uj4zsxT3fqT5jdrZP4FFQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Mark Peterson</h1>
 <h3 align="center">A passionate, logically thinking Mobile Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
